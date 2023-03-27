@@ -14,7 +14,7 @@ let package = Package(
             targets: ["CLVMTools"])
     ],
     dependencies: [
-        .package(url: "git@github.com:keyspaceapp/swift-clvm.git", from: "0.0.5")
+        .package(url: "https://github.com/keyspaceapp/swift-clvm", from: "0.0.6")
     ],
     targets: [
         .target(

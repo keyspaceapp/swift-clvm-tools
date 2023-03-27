@@ -30,7 +30,7 @@
     {
       "identity" : "swift-bls-signatures",
       "kind" : "remoteSourceControl",
-      "location" : "git@github.com:keyspacewallet/swift-bls-signatures.git",
+      "location" : "https://github.com/keyspaceapp/swift-bls-signatures",
       "state" : {
         "revision" : "e107b5caca1ee4c06591b9db512bd2c5357b94b6",
         "version" : "0.0.3"
@@ -41,8 +41,8 @@
       "kind" : "remoteSourceControl",
       "location" : "git@github.com:keyspaceapp/swift-clvm.git",
       "state" : {
-        "revision" : "c1d09e8d986e253bc477b8a810ad6e9adcffcb4a",
-        "version" : "0.0.5"
+        "revision" : "736c2a29f585248af0dd2393dc04b1b9e3624c9f",
+        "version" : "0.0.6"
       }
     },
     {
